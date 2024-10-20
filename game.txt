@@ -1,4 +1,4 @@
-Lets make a game!
+Let's make a game!
  name:CDClicker
  author:Wufflemate
  version:0.1
