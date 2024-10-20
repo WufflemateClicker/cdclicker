@@ -1,0 +1,4 @@
+Lets make a game!
+ name:CDClicker
+ author:Wufflemate
+ version:0.1
